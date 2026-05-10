@@ -13,7 +13,8 @@ This then would analyze the image sends both an image and the hazardous waste qu
 <img width="1708" height="691" alt="image" src="https://github.com/user-attachments/assets/9e1153ce-dd46-452b-9bc9-842a0608b4ff" />
 
 In the prototype, In the prototype, I made it so that you can ask a question about the picture to know more about it in real time
-<img width="652" height="225" alt="image" src="https://github.com/user-attachments/assets/d1e919d8-2b39-4bce-a458-c411129055d1" />
+<img width="1595" height="436" alt="image" src="https://github.com/user-attachments/assets/5e4ee110-72bb-4d8a-8e5d-f353934a7b3e" />
+
 
 
 
