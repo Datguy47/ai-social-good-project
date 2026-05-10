@@ -15,8 +15,13 @@ This then would analyze the image sends both an image and the hazardous waste qu
 In the prototype, In the prototype, I made it so that you can ask a question about the picture to know more about it in real time
 <img width="1595" height="436" alt="image" src="https://github.com/user-attachments/assets/5abf0975-e35c-4f33-b2b8-88d0193f89f0" />
 
+Failure Case: The one failure of this would be that this AI could not detect what type of Hazardous waste it is. The only time it can detect if there is a clear image of a truck with show warning of what waste is inside the truck. There could be times when a truck gets a leak unnoticed, and the truck would be gone, which makes it harder for AI to detect it. There could be times when something in the screenshot would be hidden, which would cause the AI to not know what it's looking at and would probably have to guess.
+<img width="1810" height="332" alt="image" src="https://github.com/user-attachments/assets/50b1af96-326a-4b9d-8306-2df1b78e448b" />
 
 
+
+
+Oversight and Tradeoff
 
 
 
