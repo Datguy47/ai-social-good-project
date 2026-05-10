@@ -21,7 +21,7 @@ Failure Case: The one failure of this would be that this AI could not detect wha
 
 
 
-Oversight and Tradeoff
+Oversight and Tradeoff: People are still needed since the AI system is designed to help workers rather than replace them. This AI detects and confirms if hazards exist before taking action. The main tradeoff is balancing automation with reliability. The AI system improves in monitoring speed and reduces manual inspection workload, and sometimes can still produce false positives or may miss detection. The AI involving camera installation would be expensive. Even when it has these limitations, this project shows how AI in image analysis can improve hazardous waste and protect lives.
 
 
 
